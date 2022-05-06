@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/bank"
+            android:title="Manage bank accounts"
+            android:icon="@drawable/banco"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/Expenses"
+            android:title="Manage personal expenses"
+            android:icon="@drawable/spences"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/car"
+            android:title="Car maintenance"
+            android:icon="@drawable/car"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/Stocks"
+            android:title="Manage Portfolio of stocks"
+            android:icon="@drawable/stockmarket"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/Sync"
+            android:title="Synchronize"
+            android:icon="@drawable/synchronize"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/Exit"
+            android:title="Exit"
+            android:icon="@drawable/door"/>
+    </group>
+
+</menu>

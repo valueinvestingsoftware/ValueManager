@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SyncFragment">
+
+    <Button
+        android:id="@+id/btnSyncUpPortfolio"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        app:icon="@android:drawable/stat_sys_upload"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="Portfolio of Stocks"
+        android:backgroundTint="@color/syncUp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        />
+
+    <Button
+        android:id="@+id/btnSyncUpBanks"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        app:icon="@android:drawable/stat_sys_upload"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:backgroundTint="@color/syncUp"
+        android:text="Bank accounts"
+        app:layout_constraintBottom_toTopOf="@+id/btnSyncUpExpenses"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnSyncUpCars"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        app:icon="@android:drawable/stat_sys_upload"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:backgroundTint="@color/syncUp"
+        android:text="Car Maintenance"
+        app:layout_constraintBottom_toTopOf="@+id/btnSyncUpBanks"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnSyncUpExpenses"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        app:icon="@android:drawable/stat_sys_upload"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:text="Expenses"
+        android:backgroundTint="@color/syncUp"
+        app:layout_constraintBottom_toTopOf="@+id/btnSyncUpPortfolio"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnSyncDownBanks"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        app:icon="@android:drawable/stat_sys_download"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:backgroundTint="@color/teal_200"
+        android:text="Bank accounts"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnSyncDownExpenses" />
+
+    <Button
+        android:id="@+id/btnSyncDownCars"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:backgroundTint="@color/syncDown"
+        android:text="Car Maintenance"
+        app:icon="@android:drawable/stat_sys_download"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnSyncDownExpenses"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        app:icon="@android:drawable/stat_sys_download"
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:backgroundTint="@color/teal_200"
+        android:text="Expenses"
+        app:layout_constraintEnd_toStartOf="@+id/spYearExpenses"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnSyncDownPortfolio" />
+
+    <Button
+        android:id="@+id/btnSyncDownPortfolio"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        app:icon="@android:drawable/stat_sys_download"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:backgroundTint="@color/syncDown"
+        android:text="Portfolio of Stocks"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnSyncDownCars" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="32dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="16dp"
+        android:text="IP:"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="@+id/txtIp"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/txtIp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toBottomOf="@+id/btnSyncUpBanks"
+        app:layout_constraintEnd_toStartOf="@+id/btnUpdateIp"
+        app:layout_constraintStart_toEndOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@+id/btnSyncDownPortfolio" />
+
+    <Button
+        android:id="@+id/btnUpdateIp"
+        style="@style/Widget.MaterialComponents.Button.Icon"
+        android:layout_width="51dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:backgroundTint="@color/update"
+        android:text=""
+        app:icon="@android:drawable/ic_menu_save"
+        app:layout_constraintBottom_toBottomOf="@+id/btnSyncUpBanks"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnSyncDownPortfolio" />
+
+    <Spinner
+        android:id="@+id/spYearExpenses"
+        android:layout_width="115dp"
+        android:layout_height="26dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnSyncDownPortfolio" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
