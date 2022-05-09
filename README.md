@@ -155,3 +155,41 @@ Questa è un'opportunità unica di partnership a lungo termine. Finora ho svilup
 
 # Nel caso abbiate bisogno di contattarmi
 - Alla fine del video imparerai come contattarmi.
+
+# Português
+# Descrição do Projeto
+
+Esta é uma oportunidade única de parceria de longo prazo. Tenho desenvolvido o software mencionado no vídeo abaixo por dois anos até agora. Para agilizar o desenvolvimento do software, ofereço esta parceria que poderá lhe trazer satisfação pessoal e benefícios econômicos.
+
+[Baixe o vídeo de descrição do software](https://www.dropbox.com/s/quys9cgf203m4s7/Stocks.zip?dl=0).
+
+[Baixar software](https://www.youtube.com/c/THESTOCKMARKETVALUEINVESTINGCHANNEL/about).
+
+ # O que você ganha?
+- **100%** do dinheiro que você recebe pela venda do software.
+- Possibilidade de participar no desenvolvimento de qualquera dos módulos.
+- Suporte gratuito de nível 2 durante a implementação.
+- Todo o software e acesso ao código através do *GitHub*.
+- Acesso ao código fonte da API.
+- Poupa dois anos de desenvolvimento em tempo integral.
+
+# O que você precisa fazer?
+- Implemente o software em seu próprio computador e explore suas funcionalidades.
+- Se você vender o software para outra pessoa, você deve implementá-lo e treinar seu cliente.
+
+# É com você!
+- Se você deseja comercializar o software ou mantê-lo para uso próprio.
+- Quanto dinheiro você cobrará de seus clientes pelo software.
+- Se você deseja participar da codificação de novas funcionalidades ou não.
+- Se você quiser me fornecer sugestões de novas funcionalidades ou não.
+
+# Se você decidir se envolver
+- Grave um vídeo explicando qual nova funcionalidade você deseja codificar. Você pode usar https://screencast-o-matic.com/ para gravar o vídeo. Sempre crie uma nova ramificação para codificar a nova funcionalidade.
+- Você pode me fazer qualquer pergunta sobre a lógica de qualquera das funcionalidades existentes.
+
+# O que eu ganho?
+- Feedback para continuar melhorando o software.
+- Novas funcionalidades no software.
+
+# Caso precise entrar em contato comigo
+- No final do vídeo, você aprenderá como entrar em contato comigo.
