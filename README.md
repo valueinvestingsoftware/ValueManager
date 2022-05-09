@@ -75,4 +75,42 @@ Esta es una oportunidad única de asociación a largo plazo. He estado desarroll
 - Nuevas funcionalidades en el software.
 
 # Si necesitas contactarme
-- Al final del video, sabrás cómo contactarme- 
+- Al final del video, sabrás cómo contactarme. 
+
+# Française
+
+# Description du projet
+
+Il s'agit d'une opportunité unique de partenariat à long terme. J'ai développé le logiciel mentionné dans la vidéo ci-dessous pendant deux ans jusqu'à présent. Afin d'accélérer le développement du logiciel, je vous propose ce partenariat qui pourrait vous apporter satisfaction personnelle et avantages économiques.
+
+[Télécharger la vidéo de description du logiciel] (https://www.dropbox.com/s/quys9cgf203m4s7/Stocks.zip?dl=0).
+
+[Télécharger le logiciel](https://www.youtube.com/c/THESTOCKMARKETVALUEINVESTINGCHANNEL/about).
+
+ # Qu'est ce que tu obtiens?
+- **100 %** de l'argent que vous recevez pour les ventes du logiciel.
+- Possibilité de participer au développement de n'importe lequel des modules.
+- Support de niveau 2 gratuit pendant la mise en œuvre.
+- L'ensemble du logiciel et l'accès au code via *GitHub*.
+- Accès au code source de l'API.
+- Cela vous épargne deux années de développement à temps plein.
+
+# Que devez-vous faire?
+- Implémentez le logiciel sur votre propre ordinateur et explorez ses fonctionnalités.
+- Si vous vendez le logiciel à quelqu'un d'autre, vous devez l'implémenter et former votre client.
+
+# C'est comme tu veux!
+- Si vous souhaitez commercialiser le logiciel ou le conserver pour votre propre usage.
+- Combien d'argent vous facturerez à vos clients pour le logiciel.
+- Si vous souhaitez participer au codage de nouvelles fonctionnalités ou non.
+- Si vous souhaitez me faire des propositions de nouvelles fonctionnalités ou non.
+
+# Si vous décidez de vous impliquer
+- Enregistrez une vidéo expliquant quelle nouvelle fonctionnalité vous souhaitez coder. Vous pouvez utiliser https://screencast-o-matic.com/ pour enregistrer la vidéo. Créez toujours une nouvelle branche pour coder la nouvelle fonctionnalité.
+
+# Qu'est-ce que je gagne ?
+- Retour d'expérience pour continuer à améliorer le logiciel.
+- Nouvelles fonctionnalités ajoutées au logiciel.
+
+# Au cas où vous auriez besoin de me contacter
+- A la fin de la vidéo, vous apprendrez comment me contacter.
