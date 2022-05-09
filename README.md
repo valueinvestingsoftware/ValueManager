@@ -117,3 +117,41 @@ Il s'agit d'une opportunité unique de partenariat à long terme. J'ai développ
 
 # Au cas où vous auriez besoin de me contacter
 - A la fin de la vidéo, vous apprendrez comment me contacter.
+
+# Italiano
+# Descrizione del progetto
+
+Questa è un'opportunità unica di partnership a lungo termine. Finora ho sviluppato il software menzionato nel video qui sotto per due anni. Al fine di accelerare lo sviluppo del software, offro questa partnership che potrebbe portarti soddisfazione personale e vantaggi economici.
+
+[Scarica il video di descrizione del software](https://www.dropbox.com/s/quys9cgf203m4s7/Stocks.zip?dl=0).
+
+[Scarica software](https://www.youtube.com/c/THESTOCKMARKETVALUEINVESTINGCHANNEL/about).
+
+ # Che cosa ottieni?
+- **100%** del denaro che ricevi per le vendite del software.
+- Possibilità di partecipare allo sviluppo di uno qualsiasi dei moduli.
+- Supporto gratuito di livello 2 durante l'implementazione.
+- L'intero software e l'accesso al codice tramite *GitHub*.
+- Accesso al codice sorgente dell'API.
+- Ti risparmia due anni di sviluppo a tempo pieno.
+
+# Cosa devi fare?
+- Implementa il software sul tuo computer ed esplora le sue funzionalità.
+- Se vendi il software a qualcun altro, devi implementarlo e formare il tuo cliente.
+
+# Spetta a voi!
+- Se desideri commercializzare il software o conservarlo per uso personale.
+- Quanti soldi addebiterai ai tuoi clienti per il software.
+- Se vuoi partecipare alla codifica di nuove funzionalità.
+- Se vuoi fornirmi suggerimenti per nuove funzionalità.
+
+# Se decidi di metterti in gioco
+- Registra un video che spieghi quale nuova funzionalità desideri codificare. Puoi usare https://screencast-o-matic.com/ per registrare il video. Crea sempre un nuovo ramo per codificare la nuova funzionalità.
+- Puoi farmi qualsiasi domanda sulla logica di qualsiasi delle funzionalità esistenti.
+
+# Cosa guadagno?
+- Feedback per continuare a migliorare il software.
+- Nuove funzionalità aggiunte al software.
+
+# Nel caso abbiate bisogno di contattarmi
+- Alla fine del video imparerai come contattarmi.
