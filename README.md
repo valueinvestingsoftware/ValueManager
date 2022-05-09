@@ -31,6 +31,7 @@ This is a unique long-term partnership opportunity. I have been developing the s
 
 # If you decide to get involved
 -  Record a video explaining what new functionality you want to code. You can use https://screencast-o-matic.com/ to record the video. Always create a new branch to code the new functionality.
+-  You can ask me any questions regarding the logic of any of the existing functionalities.
 
 # What do I earn?
 - Feedback to continue improving the software.
@@ -69,6 +70,7 @@ Esta es una oportunidad única de asociación a largo plazo. He estado desarroll
 
 # Si decides involucrarte
 - Graba un video explicando qué nueva funcionalidad deseas desarrollar. Puedes usar https://screencast-o-matic.com/ para grabar el video. Crea siempre una nueva rama para desarrollar la nueva funcionalidad.
+- Puedes consultarme cualquier duda respecto a la lógica de cualquiera de las funcionalidades existentes.
 
 # ¿Qué gano?
 - Comentarios para seguir mejorando el software.
@@ -107,6 +109,7 @@ Il s'agit d'une opportunité unique de partenariat à long terme. J'ai développ
 
 # Si vous décidez de vous impliquer
 - Enregistrez une vidéo expliquant quelle nouvelle fonctionnalité vous souhaitez coder. Vous pouvez utiliser https://screencast-o-matic.com/ pour enregistrer la vidéo. Créez toujours une nouvelle branche pour coder la nouvelle fonctionnalité.
+- Vous pouvez me poser toutes les questions concernant la logique de n'importe laquelle des fonctionnalités existantes.
 
 # Qu'est-ce que je gagne ?
 - Retour d'expérience pour continuer à améliorer le logiciel.
